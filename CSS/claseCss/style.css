@@ -1,0 +1,18 @@
+.main-nav{
+    margin-top: 10px; /*Dar tamaño entre donde empieza esa seccion y el texto*/
+    list-style:none;  /*Sirve para quitar los puntos en las listas*/
+    padding-left: 0;
+    background-color: #000000;
+}
+
+.main-nav__item{
+    display: inline-block;
+}
+
+.main-nav__item a{
+    color: rgb(252, 252, 252);
+    padding: 5px;
+    border-radius: 2px;
+    text-decoration: none;
+}
+
